@@ -1,0 +1,11 @@
+# terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# editors
+.vscode
+.idea
+
+# OS stuff
+**/.DS_Store
